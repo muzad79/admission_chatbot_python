@@ -1,0 +1,10 @@
+openai
+langchain
+langchain-openai
+streamlit
+langchain-core
+langchain-community
+langchain-text-splitters
+faiss-cpu
+flask
+flask-cors
